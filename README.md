@@ -86,3 +86,4 @@ registerBot(MY_BOT_TOKEN, async (message, bot, user, sharedContactId, msg) => {
 ## 💡 Qo‘shimcha eslatma
 
 Agar bot ishlamasa yoki sizga xatolik (momo) kelib qolsa, **`Create Bot` ichida xato xabarini** tekshiring. U yerda nima noto‘g‘ri ekanini ko‘rsatadi (masalan: token noto‘g‘ri, /run tugmasidan oldin kod to‘g‘ri yozilmagan).
+
